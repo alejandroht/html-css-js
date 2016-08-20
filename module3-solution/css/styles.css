@@ -1,0 +1,52 @@
+#nav-main{
+	background-color: #ff4d4d;
+}
+
+#brand-text{
+	font-family: 'Lobster Two', cursive;
+	font-size: 40px;
+	color: white;
+}
+
+#nav-list a:hover{
+	/*border: 1px solid black;*/
+	background-color: #ff4d4d;
+	color: white;
+	
+}
+
+#nav-list{
+	background-color: #ffffe6;
+}
+
+#menu-title{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.menu-content{
+	height: 1000px;
+	background-color: #ffffe6;
+	margin:3px 3px 20px 3px;
+	border-radius: 10px;
+	border: 1px solid black;
+	
+	box-shadow: 10px 10px 5px #888888;
+	/*
+	font-size: 20px;
+	*/
+}
+
+.item-text{
+	font-family: 'Gloria Hallelujah', cursive;
+	background-color: #ff4d4d;
+	color: white;
+	height: 30px;
+	border-top-left-radius: 10px
+	border-top-right-radius: 10px;
+}
+
+.menu-description{
+	padding: 10px;
+}
